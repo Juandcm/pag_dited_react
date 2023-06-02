@@ -217,12 +217,12 @@ function SliderTrabajadores(props) {
 			slider: 4,
 			data: [
 				{
-					foto: `${process.env.PUBLIC_URL}/assets/images/rector.jpg`,
-					nombre: 'Dr. Corteza Tomassetti',
-					cargo: 'Rectora de la Unellez',
+					foto: `${process.env.PUBLIC_URL}/assets/images/adan_chavez.jpeg`,
+					nombre: 'Adán Chávez Frías',
+					cargo: 'Rector de la Unellez',
 				},
 				{
-					foto: `${process.env.PUBLIC_URL}/assets/images/alberto.jpeg`,
+					foto: `${process.env.PUBLIC_URL}/assets/images/albertosierra.jpeg`,
 					nombre: 'Alberto Sierra',
 					cargo: 'Director/DITED',
 				},
@@ -231,22 +231,21 @@ function SliderTrabajadores(props) {
 					nombre: 'Maria Alba Rondón',
 					cargo: 'Coordinadora de Gestión Administrativa/DITED',
 				},
-
-				{
-					foto: `${process.env.PUBLIC_URL}/assets/images/default.png`,
-					nombre: 'Dexi Azuaje',
-					cargo: 'Coordinadora de Recursos de Enseñanza Apredizaje/DITED',
-				},
+				// {
+				// 	foto: `${process.env.PUBLIC_URL}/assets/images/default.png`,
+				// 	nombre: 'Dexi Azuaje',
+				// 	cargo: 'Coordinadora de Recursos de Enseñanza Apredizaje/DITED',
+				// },
 				{
 					foto: `${process.env.PUBLIC_URL}/assets/images/default.png`,
 					nombre: 'Freddy Robles',
 					cargo: 'Coordinador de Interacción Virtual/DITED',
 				},
-				{
-					foto: `${process.env.PUBLIC_URL}/assets/images/default.png`,
-					nombre: 'Alexis Gonzales',
-					cargo: 'Coordinador de Tecnologia/DITED',
-				},
+				// {
+				// 	foto: `${process.env.PUBLIC_URL}/assets/images/default.png`,
+				// 	nombre: 'Alexis Gonzales',
+				// 	cargo: 'Coordinador de Tecnologia/DITED',
+				// },
 			],
 		},
 		{
